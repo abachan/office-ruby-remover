@@ -1,0 +1,8 @@
+.venv
+build
+dist
+office_ruby_remover.egg-info
+test
+__pycache__
+.pypirc
+setup.py
